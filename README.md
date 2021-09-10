@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lfxhw
+- 👀 I’m interested in Quant and Risk Management
+- 🌱 I’m currently learning Python and Machine Learing
+- 
